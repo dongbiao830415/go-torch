@@ -8,3 +8,6 @@ go-torch
 
 Godeps/_workspace
 vendor
+
+*.exe
+.idea
